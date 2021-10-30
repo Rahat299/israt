@@ -1,0 +1,116 @@
+body{
+    font-family: 'IM Fell English SC', serif;
+    margin: 0%;
+}
+h1{
+
+    font-size: 40px;
+}
+
+.name-highlight{
+    color:chocolate;
+}
+.leader{
+    color: chocolate;
+
+}
+
+.about{
+
+    width: 30%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+
+}
+.about img{
+     width: 35%;
+     margin-top: 15%;
+
+}
+.top-banner{
+    background-image: url("image/top-banner.png");
+
+}
+section{
+
+    height: 500px;
+}
+
+.button1 {background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    text-decoration: none;}
+    .firstpera{
+        color: rgb(47, 0, 255);
+    }
+
+    .middle-banner{
+
+        background-image: url("images/top-banner.png");
+    }
+.area{
+    color: chocolate;
+}
+.second-pera{
+    color: rgb(68, 0, 255);
+}
+
+.expect{
+
+    width: 40%;
+    float: right;
+    margin-left: 5%;
+    padding-left: 2%;
+
+}
+.expect img{
+     width: 25%;
+     float: left;
+     margin-top: 20%;
+     margin-bottom: 10%;
+}
+.button2 {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+  .expo{
+
+    width: 35%;
+    float: right;
+    margin-left: 5%;
+    padding-left: 2%;
+
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 80%;
+
+}
+.expo1{
+    width: 40%;
+    float: left;
+    margin-left: 3%;
+    padding-left: 2%;
+
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 80%;
+}
+footer p{
+    text-align:center;
+}
+     
+      
+      
+
